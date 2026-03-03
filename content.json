@@ -1,0 +1,163 @@
+{
+  "business": {
+    "name": "Apex Electrical",
+    "tagline": "Melbourne's electricians who actually show up.",
+    "description": "Licensed Melbourne electricians for homes that need reliable wiring, safety inspections, switchboard upgrades & 24/7 emergency callouts.",
+    "industry": "trades",
+    "location": "Melbourne, VIC",
+    "phone": "",
+    "address": {
+      "city": "Melbourne, VIC",
+      "country": "AU"
+    }
+  },
+  "philosophy": "Electrical work isn't glamorous — but getting it wrong is dangerous, and getting it right is everything. We believe homeowners deserve a sparky who treats their home like their own: careful, honest, and done properly the first time.",
+  "seo": {
+    "siteUrl": "",
+    "keywords": [
+      "licensed electrician Melbourne",
+      "residential electrician Melbourne VIC",
+      "emergency electrician Melbourne",
+      "switchboard upgrade Melbourne",
+      "home electrical safety inspection",
+      "residential wiring Melbourne",
+      "after hours electrician Melbourne",
+      "local electrician Melbourne homeowners"
+    ]
+  },
+  "social": {
+    "instagram": "",
+    "linkedin": "",
+    "facebook": ""
+  },
+  "services": [
+    {
+      "icon": "🔌",
+      "title": "Residential Wiring",
+      "description": "From new builds to renovation rewires, we handle all residential wiring with clean workmanship and full compliance. You get a home that's wired safely, neatly, and built to last."
+    },
+    {
+      "icon": "🛡️",
+      "title": "Safety Inspections",
+      "description": "A thorough inspection of your home's electrical system to catch hazards before they become emergencies. Walk away with a clear report and genuine peace of mind about what's behind your walls."
+    },
+    {
+      "icon": "⚡",
+      "title": "Switchboard Upgrades",
+      "description": "Old ceramic fuses and outdated boards are a fire risk — and a headache for modern homes. We upgrade your switchboard to a modern safety switch panel that handles today's power demands without fuss."
+    },
+    {
+      "icon": "🚨",
+      "title": "Emergency Callouts",
+      "description": "Power out at midnight? Burning smell from a socket? We take emergency calls seriously and get to Melbourne homes fast, any time of day or night. Because some problems simply can't wait."
+    }
+  ],
+  "pages": {
+    "home": {
+      "hero": {
+        "headline": "Power You Can Trust. Full Stop.",
+        "subheadline": "Apex Electrical are licensed Melbourne electricians who show up on time, explain everything clearly, and leave your home safer than they found it. For wiring, inspections, upgrades, and emergencies — we've got you covered.",
+        "cta": "Get a Free Quote"
+      },
+      "services_section": {
+        "label": "WHAT WE DO",
+        "heading": "Every service your home's electrical system needs.",
+        "subheading": "From routine safety checks to urgent after-hours callouts — we handle it all under one roof, with licensed tradespeople every time."
+      },
+      "sections": [
+        {
+          "id": "why-us",
+          "label": "WHY APEX",
+          "heading": "The electrician your neighbour keeps recommending.",
+          "body": "Melbourne homeowners have enough to worry about. When you call Apex, you get a licensed sparky who gives you a straight answer, a fair price, and work done to a standard you can actually see. No upselling you on things you don't need. No disappearing act after the invoice.",
+          "cta": {
+            "text": "Meet the Team",
+            "url": "/about"
+          }
+        },
+        {
+          "id": "trust-signals",
+          "heading": "Licensed. Insured. Locally Based.",
+          "points": [
+            "Fully licensed & insured electricians",
+            "Servicing Melbourne metro & surrounds",
+            "Upfront pricing — no hidden call-out surprises",
+            "Available 24/7 for genuine emergencies",
+            "All work compliant with Australian Standards"
+          ]
+        },
+        {
+          "id": "cta-band",
+          "heading": "Not sure where to start?",
+          "body": "Even if you just have a question — give us a call or send a message. We'll tell you honestly whether something needs urgent attention or can wait. No pressure, no hard sell.",
+          "cta": {
+            "text": "Talk to an Electrician",
+            "url": "/contact"
+          }
+        }
+      ]
+    },
+    "about": {
+      "title": "About",
+      "headline": "We're the electricians who treat your home like it's ours.",
+      "content": "Apex Electrical was built on a simple frustration: too many Melbourne homeowners were being let down by tradies who didn't show up, didn't explain what they were doing, or left a job half-finished. We started with the belief that electrical work — done properly — should feel invisible. Safe circuits, clean installs, no callbacks. That's the standard we hold ourselves to every single day.\n\nEvery sparky at Apex is fully licensed and works to Australian Standards on every job, whether it's a single power point or a full home rewire. We take the time to walk you through what we've found, what we recommend, and why — because an informed homeowner makes better decisions, and that's good for everyone.\n\nWe're based right here in Melbourne. These are our streets, our neighbourhoods, our community. When we do a job well, we know we're likely to see that client again — at the hardware store, at school pickup, around the suburb. That keeps us honest. And that's exactly how we like it.",
+      "values": [
+        {
+          "title": "Straight Talk",
+          "body": "We tell you what we find and what it means — in plain English. If something doesn't need fixing, we'll say so. If something's urgent, we'll be direct about that too. You deserve honesty over a padded invoice."
+        },
+        {
+          "title": "Workmanship That Lasts",
+          "body": "We're not interested in quick fixes that come back to haunt you. Every job gets done to a standard we're proud to put our name on — neat, compliant, and built to handle years of daily life without complaint."
+        },
+        {
+          "title": "Respect for Your Home",
+          "body": "We show up on time, keep the mess to a minimum, and leave your home the way we found it — except for the electrical problem, which won't be there anymore. Your space deserves the same care we'd give our own."
+        }
+      ]
+    },
+    "services": {
+      "headline": "Electrical services built around Melbourne homeowners.",
+      "subheadline": "Whatever your home needs — routine, urgent, or somewhere in between — we handle it with the same level of care and licensed expertise.",
+      "items": [
+        {
+          "title": "Residential Wiring",
+          "description": "Whether you're renovating, building new, or dealing with ageing wiring that's causing headaches, we plan and install residential electrical systems that are clean, code-compliant, and built to last. You get a home that works the way it should — reliably, safely, without fuss.",
+          "price": ""
+        },
+        {
+          "title": "Safety Inspections",
+          "description": "Our thorough home electrical inspections cover everything from switchboards and earthing to power points, smoke alarms, and wiring condition — giving you a clear picture of your home's safety. You receive a detailed written report and honest recommendations with no obligation.",
+          "price": ""
+        },
+        {
+          "title": "Switchboard Upgrades",
+          "description": "Older switchboards with rewireable fuses aren't just inefficient — they're a genuine hazard in a modern home. We replace outdated boards with current safety switch panels that protect against electric shock and fire, and handle the growing power demands of today's appliances and EVs.",
+          "price": ""
+        },
+        {
+          "title": "Emergency Callouts",
+          "description": "Electrical emergencies don't stick to business hours, and neither do we. We're available around the clock for Melbourne homeowners dealing with power failures, tripped circuits, burning smells, or anything else that can't wait until Monday morning.",
+          "price": ""
+        }
+      ]
+    },
+    "portfolio": {
+      "headline": "Our Work",
+      "subheadline": "Every job is a chance to do something we're genuinely proud of.",
+      "items": [
+        {
+          "title": "Coming Soon",
+          "description": "We're pulling together photos and case studies from recent Melbourne jobs — check back soon to see what careful electrical work actually looks like.",
+          "url": "#"
+        }
+      ]
+    },
+    "contact": {
+      "headline": "Let's sort out your electrical.",
+      "subheadline": "Tell us what's going on and we'll get back to you quickly — usually same day. No automated runaround, just a real conversation with someone who can actually help.",
+      "email": "hello@apexelectrical.com",
+      "cta": "Send Us a Message"
+    }
+  }
+}

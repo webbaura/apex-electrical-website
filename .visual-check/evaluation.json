@@ -1,0 +1,53 @@
+{
+  "score": 7,
+  "passes": true,
+  "strengths": [
+    "Dark background with amber/gold accent colour is consistently applied across all pages, creating strong brand cohesion",
+    "Split-left hero layout is correctly implemented with headline on left and image placeholder on right",
+    "Typography hierarchy is clear with bold oversized headline, supporting body copy, and visible CTA button",
+    "Services section uses numbered list format with clean spacing that aids readability",
+    "Navigation is clean, minimal, and consistently placed across all pages",
+    "The amber CTA buttons have good contrast against the dark background and are visually prominent",
+    "About page philosophy quote callout box adds visual interest and reinforces trust messaging",
+    "Footer is well-structured with three-column layout covering branding, navigation, and contact"
+  ],
+  "issues": [
+    {
+      "element": "hero",
+      "severity": "high",
+      "issue": "Hero image placeholder is still showing 'Replace with hero image' text — no actual photography of electricians or real work is present, severely undermining trust and realism",
+      "fix": "Replace placeholder with a high-quality photo of a licensed electrician working in a Melbourne home, ideally showing a clean professional environment"
+    },
+    {
+      "element": "services-section",
+      "severity": "high",
+      "issue": "Services page appears largely empty with excessive dark void above the first service card, suggesting content or images are missing or not rendering",
+      "fix": "Add a hero heading section at the top of the services page and ensure all four service cards are visible and populated with imagery or icons"
+    },
+    {
+      "element": "overall",
+      "severity": "medium",
+      "issue": "No trust signals are present anywhere on the site — no reviews, star ratings, licence numbers, years in business, or any social proof that would convert hesitant homeowners",
+      "fix": "Add a testimonials section on the homepage with 3 Google-style reviews, and display licence number and years of experience near the hero CTA"
+    },
+    {
+      "element": "cta",
+      "severity": "medium",
+      "issue": "The homepage CTA section 'Ready to get started?' is very minimal with just a headline and button — no supporting reassurance copy or contact details visible",
+      "fix": "Add a phone number prominently, a short reassurance line like 'Licensed, insured, and available 24/7', and consider a secondary micro-CTA in the hero"
+    },
+    {
+      "element": "typography",
+      "severity": "low",
+      "issue": "About page principles section cuts off after '01 Straight Talk' — additional principles are not visible, making the page feel incomplete",
+      "fix": "Ensure all value/principle items are rendered and visible, with consistent spacing between numbered items"
+    },
+    {
+      "element": "colours",
+      "severity": "low",
+      "issue": "The dark background is very close to pure black (#000) with minimal texture or depth, making some sections feel flat and undifferentiated",
+      "fix": "Introduce subtle section differentiation using a very dark charcoal (#111 or #141414) for alternating sections to create visual rhythm without breaking the dark theme"
+    }
+  ],
+  "verdict": "A solid, intentionally designed dark-theme electrical trade site with strong brand consistency and correct layout implementation, but critically undermined by a missing hero image and incomplete services page that must be resolved before launch to achieve its lead generation goal."
+}
